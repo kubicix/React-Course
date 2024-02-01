@@ -88,7 +88,7 @@
 
 } */
 
-/* .counterp{
+.counterp{
   font-size: 4em;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
@@ -103,9 +103,9 @@
   text-align: center;
   justify-content: center;
   align-items: center;
-} */
+}
 
-body{
+/* body{
   font-family: Arial,sans-serif;
 }
 .color-container{
@@ -150,4 +150,4 @@ input[type="color"]{
   padding: 5px;
   border-radius: 10px;
   border: 3px solid rgb(43, 43, 43);
-}
+} */
