@@ -1,11 +1,10 @@
-import MyComponent2 from "./MyComponent2.jsx";
+import UsageEffect from "./UsageEffect.jsx";
 
 function App() {
-  
 
   return(
     <>
-      <MyComponent2></MyComponent2>
+      <UsageEffect></UsageEffect>
     </>
   );
 }
