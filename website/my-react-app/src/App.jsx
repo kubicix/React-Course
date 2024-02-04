@@ -1,10 +1,12 @@
-import ComponentA from "./ComponentA";
+import Stopwatch from "./Stopwatch";
 
 function App() {
 
   return(
     <>
-      <ComponentA></ComponentA>
+    <Stopwatch></Stopwatch>
+    <Stopwatch></Stopwatch>
+    <Stopwatch></Stopwatch>
     </>
   );
 }
